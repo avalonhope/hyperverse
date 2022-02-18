@@ -1,2 +1,3 @@
-# starquest-wiki
-Dcoumentation for Starquest multiuser text-based science fiction RPG
+# Starquest multiuser text-based science fiction RPG based on Evennia framework
+
+
