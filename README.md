@@ -18,3 +18,6 @@ On the other hand, the Imperium of Humanity uses a system of Imperial Credits. T
 
 Interstellar travel takes a very long time, but there are a limited number of hyperspace portals through which spacecraft can travel and well as ground-to-space portals that link space stations with the planets below them. Portals can also be placed within starships, through which they are brought to their eventual destination, after centuries or millennia of deep space travel. 
 
+## Roleplaying
+
+You can use the _do <action>_ command to simulate roleplaying events. Such events get added to the RP history of that location.  You can use the _history_ command to see what already happened.
