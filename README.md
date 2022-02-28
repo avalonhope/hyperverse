@@ -12,7 +12,7 @@ Multiple player accounts are allowed. Players can have multiple characters. Char
 
 Characters may belong to different factions. Each faction has its own economic system. The Federation of Sentient Beings, for example, uses a system called Federal Collectivism in which money is just as outdated as the barter system. The concept of payment is replaced by the concept of authorization to use a resource, with soft limits based on available resources to determine when a request for authorization needs to be escalated to a higher authority such an elected council or mayor.
 
-On the other hand, the Imperium of Humanity uses a system of Imperial Credits. There is no universal currency for inter-factional trading.
+There is no universal currency for inter-factional trading.
 
 ## Technology
 
