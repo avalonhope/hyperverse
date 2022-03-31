@@ -1,6 +1,6 @@
-# Starquest 
+# Starquest - Infinite Worlds
 
-Starquest is a multiuser text-based science fiction RPG based on Evennia framework.
+Starquest - Infinite Worlds is a multiuser text-based science fiction RPG based on Evennia framework.
 
 ## Worlds
 
