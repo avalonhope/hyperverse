@@ -1,6 +1,8 @@
-# Starquest - Infinite Worlds
+# The Hyperverse
 
-Starquest - Infinite Worlds is a multiuser text-based science fiction RPG based on Evennia framework.
+The Hyperverse is a multiuser text-based RPG based on Evennia framework.
+
+The setting is an infinite ensemble of multiverses.
 
 ## Worlds
 
